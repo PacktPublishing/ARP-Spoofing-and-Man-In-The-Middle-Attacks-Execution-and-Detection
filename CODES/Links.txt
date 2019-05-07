@@ -1,0 +1,10 @@
+https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-hyperv-image-download/
+
+https://www.youtube.com/watch?v=WKQogULgFQs
+
+https://www.youtube.com/watch?v=y0PMFg-oAEs
+
+https://zsecurity.org/got-a-blank-screen-after-importing-kali-in-virtual-box-heres-how-to-fix-it/
+
+https://www.virtualbox.org/wiki/Downloads
+
